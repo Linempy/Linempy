@@ -1,5 +1,5 @@
 
-# Привет! 👋
+# Hi, I'm Nikita! 👋
 
 ![Linempy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&theme=radical)
 
@@ -23,5 +23,8 @@
 
 
 ### 📫 Connect with me
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40username-blue?style=flat&logo=telegram)](https://t.me/Linempy)
+<p align="center">
+  <a href="https://t.me/your_username">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
