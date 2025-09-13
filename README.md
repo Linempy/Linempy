@@ -2,10 +2,17 @@
 # Hi, I'm Nikita! 👋
 
 <div align="center">
-    
-![Linempy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&theme=radical&hide_title=true&hide=html,css,scss)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&line_height=24"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&theme=radical&hide_title=true&hide=html,css,scss&langs_count=4"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
