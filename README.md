@@ -3,6 +3,8 @@
 
 ![Linempy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&theme=radical&hide_title=true)
+
 ### 🛠️ Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
