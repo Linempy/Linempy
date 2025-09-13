@@ -1,7 +1,8 @@
 
 # Hi, I'm Nikita! 👋
+💻 Java Developer
 
-![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno0bGg4amk1cGczY2plcXh1NWF1NTllamFtdjdlZ3Jkbzc3aDZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY1dWRoeWk0MzRzdzN4Y2VlYTZ1MGE0ZXh0N29oaDB0b2I4djYycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif)
 
 ### 🛠️ Tech Stack
 
@@ -24,8 +25,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&title_color=80CBC4&text_color=4DB6AC&icon_color=80CBC4&bg_color=00000000&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&title_color=80CBC4&text_color=4DB6AC&bg_color=00000000&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&title_color=E6D0B3&text_color=D1B78A&icon_color=E6D0B3&bg_color=1A1A1A&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&title_color=E6D0B3&text_color=D1B78A&bg_color=1A1A1A&hide_border=true">
 </p>
 
 ### 📫 Connect with me
