@@ -1,9 +1,13 @@
 
 # Hi, I'm Nikita! 👋
 
+<div align="center">
+    
 ![Linempy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linempy&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linempy&layout=compact&theme=radical&hide_title=true)
+
+</div>
 
 ### 🛠️ Tech Stack
 <p align="center">
